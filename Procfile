@@ -1,1 +1,1 @@
-web: python drhousepetvet/bot.py
+web:pythondrhousepetvet/bot.py
